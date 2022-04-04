@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+h1
+{
+	text-align: center;
+	padding: 20px;
+}
+
+form
+{
+	border: 1px solid black;
+	padding: 40px;
+}
+
+.formulario
+{
+	padding-bottom: 10px;
+}
+
+.boton
+{
+	background-color: #587eab;
+	color: white;
+}
+
+.fortuna
+{
+	background-color: #a0c5f4;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+.texto
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+a
+{
+	margin-top: 40px;
+}
+
+
